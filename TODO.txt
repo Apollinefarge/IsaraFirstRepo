@@ -1,0 +1,5 @@
+test du nouveau fichier 
+
+1. clone d'un dépot  
+2. modification 
+3. tester les étapes add/
